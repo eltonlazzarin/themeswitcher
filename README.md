@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/eltonlazzarin/boticario-ecommerce-webpage/blob/master/screenshots/cosmetics.svg" alt="Logo" height="150px" width="150px" />
+  <img src="https://github.com/eltonlazzarin/themeswitcher/blob/master/screenshots/theme.svg" alt="Logo" height="150px" width="150px" />
   <br>
   Themeswitcher (light - dark)
 </h1>
