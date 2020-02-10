@@ -35,10 +35,10 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/eltonlazzarin/boticario-ecommerce-webpage.git
+$ git clone https://github.com/eltonlazzarin/themeswitcher
 
 # Go into the repository
-$ cd boticario-ecommerce-webpage
+$ cd themeswitcher
 
 # Install dependencies
 $ yarn
