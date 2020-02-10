@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <img src="https://github.com/eltonlazzarin/themeswitcher/blob/master/screenshots/theme.svg" alt="Logo" height="150px" width="150px" />
   <br>
   Themeswitcher (Light - Dark)
@@ -20,7 +20,7 @@
 
 ### :rocket: Frontend Technologies (WebApp)
 
-<p align="center">
+<p align="center"> 
 <img alt="Light and Dark Mode" src="https://github.com/eltonlazzarin/themeswitcher/blob/master/screenshots/themeswitcher.gif">
 
 - [ReactJS](https://reactjs.org/)
