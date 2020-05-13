@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
   <img src="https://github.com/eltonlazzarin/themeswitcher/blob/master/screenshots/theme.svg" alt="Logo" height="150px" width="150px" />
   <br>
   Themeswitcher (Light - Dark)
